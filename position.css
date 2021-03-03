@@ -1,0 +1,259 @@
+header nav article {
+    display: inline-block;
+}
+/* * { */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    border-bottom: 1px solid rgb(207, 202, 202);
+    height: 36px;
+    background-color: #fff;
+    position: fixed;
+    z-index: 1;
+    margin-top: 0px;
+    border-color: rgb(187, 166, 166);
+    width: 100%;    
+}
+
+
+.left-corner {
+    float: left;
+    margin-left: 10px;
+}
+
+.fa-bars {
+    margin-right: 20px;
+}
+
+.fa-search {
+    margin-right: 20px;
+}
+.center {
+    margin-left: 280px;
+    margin-right: 150px;
+}
+
+.new-york {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.right-corner {
+    float: right;
+    padding: 5px;
+    margin-top: 0px;
+}
+
+main center {
+    color: #121212;
+    font-family: nyt-cheltenham,georgia,'times new roman',times,serif;
+    font-style: italic;
+    font-size: 1.973rem;
+    font-weight: 700;
+    margin: 0 20px 20px;
+    width: calc(100% - 40px);
+    line-height: 2.25rem;
+    max-width: 600px;
+    margin-left: 20px;
+    margin-right: 20px; 
+    width: 600px;
+    border-bottom: 1px solid rgb(207, 202, 202);
+    padding-bottom: 30px;
+    /* position: relative; */
+}
+
+.study {
+    display: inline-block;
+    float: left;
+}
+
+.UK,
+.IK {
+    list-style: none;
+    background-color: crimson;
+}
+
+.study {
+    margin-right: 30px;
+
+}
+
+.iconki {
+    margin-left: 220px;
+    margin-top: 30px;
+}
+
+.fa-twitter,
+.fa-whatsapp,
+.fa-envelope,
+.fa-share,
+.fa-bookmark,
+.fa-comment-alt {
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.fa-facebook-f,
+.fa-twitter,
+.fa-whatsapp,
+.fa-envelope,
+.fa-share {
+    border: 1px rgb(201, 197, 197) solid;
+    border-radius: 100%;
+    width: 15px;
+    height: 15px;
+    background-color: rgb(233, 223, 223);
+    padding: 5px;
+    cursor: pointer;
+}
+
+.Alan-Guth {
+    width: 100%;
+    /* height: 400px; */
+    vertical-align: top;
+    height: auto;
+    max-width: 100%;
+}
+
+.ADVER {
+    margin-top: 20px;
+}
+ figure figcaption {
+     color: #666;
+     font-family: nyt-imperial,georgia,'times new roman',times,serif;
+     margin: 10px 10px 0px;
+     text-align: left;
+    
+ }
+
+ .Rick-Friedman {
+     color: rgb(94, 91, 91);
+     font-size: 14px;
+ }
+ 
+ .denis {
+     color: #333;
+     text-decoration: underline;
+     text-decoration-color: #ccc;
+     font-weight: 900;
+    }
+    
+    a .By-overbye {
+        margin-left: 150px;
+    }
+    
+    ul .data {
+        color: #333;
+        font-weight: 500;
+        font-size: 0.8125rem;
+        line-height: 1rem;
+        font-family: nyt-franklin,helvetica,arial,sans-serif;
+        list-style: none;
+        margin-left: 110px;
+    }
+    
+    .first_article {
+        width: 400px;
+        margin: 0 auto;
+    }
+    
+    .kichkina {
+        width: 50px;
+        margin: 0 auto;
+        border-bottom: 1px solid rgb(204, 204, 204);
+    }
+    
+    .thanks {
+        width: 200px;
+        margin: 0 auto;
+        margin-top: 20px;
+    }
+    
+    .thanks h5 {
+        margin-bottom: 0;
+        position: relative;
+        left: 20px;
+    }
+    
+    .thanks a {
+        margin-top: 0;
+        position: relative;
+        left: 30px;
+    }
+    
+    .relative {
+        position: relative;
+    }
+    
+    aside {
+        width: 180px;
+        /* border: 1px solid green; */
+        overflow: hidden;
+        position: absolute;
+        left: 480px;
+        bottom: 150px;
+        float: right;
+    }
+    
+    aside h4 {
+        border-bottom: 1px solid rgb(204, 204, 204);
+        padding-bottom: 20px;
+        font-size: 12px;
+    }
+    
+    .for_img {
+        float: left;
+        width: 50px;
+    }
+    
+    .for_img img {
+        width: 100%;
+    }
+    
+    .for_text {
+        width: 120px;
+        float: right;
+    }
+    
+    .for_text p {
+        font-size: 11px;
+    }
+    
+    .clear {
+        clear: both;
+    }
+    
+    section {
+        margin-top: 50px;
+        width: 80%;
+        margin: 0 auto;
+        position: relative;
+    }
+    
+    section img {
+        width: 100%;
+    }
+    
+    .universe,
+    .time {
+        width: 210px;
+        position: absolute;
+        font-size: 13px;
+    }
+    
+    .universe {
+        top: 140px;
+    }
+    
+    .time {
+        top: 140px;
+        left: 250px;
+    }
+
+    .section-two {
+        margin-top: 50px;
+        width: 80%;
+        margin: 0 auto;
+        position: relative;
+    }
